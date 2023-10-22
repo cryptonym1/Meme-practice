@@ -1,0 +1,22 @@
+html
+{
+    background-color: black;
+}
+
+img
+{
+    height: 500px;
+    border: 5px solid white;
+}
+
+#poster
+{
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+h1
+{
+    text-transform: uppercase;
+}
